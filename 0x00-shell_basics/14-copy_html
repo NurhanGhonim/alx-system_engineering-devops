@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 [[:upper:]]* /tmp/u
+=======
+cp -n *.html ..
+>>>>>>> addd126cfba6847d86240fbfe54b7223ea40558b
